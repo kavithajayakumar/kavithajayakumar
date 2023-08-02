@@ -1,0 +1,9 @@
+{
+	"name": "my-datafactoryforyoukavi",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c9f7b3ab-80b4-48a8-ab74-82f912e3e9ca",
+		"tenantId": "3623a263-9ba1-4013-9952-6682bddd5f66"
+	}
+}
